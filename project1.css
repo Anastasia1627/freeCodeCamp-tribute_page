@@ -1,0 +1,51 @@
+body {
+  margin:5% 5% 0% 5%;
+  font-family:Monospace;
+  text-align:center;
+ }
+.container{
+  background-color:#E0DEFF;
+}
+h1{
+  font-size: 400%;
+  }
+h2{
+  font-size: 200%;
+  }
+h3{
+  font-size: 150%;
+  }
+#bio{
+margin: 2% 0% 1% 15%; 
+text-align: left;
+}
+li{
+  margin-right:20%;
+  padding: 0.5%;
+  font-size: 120%;
+   }
+h4{
+ margin:3% 0% 2% 0%; 
+ color:#000;
+}
+h5{
+ margin:2% 10%; 
+ color:#000;
+  font-size:150%;
+}
+h6{
+      margin: 0%;
+    font-size: 200%;
+    padding: 2% 12% 5% 12%;
+}
+#footer{
+  margin:4% 0% 1% 0%;
+}
+
+h7{
+ color:#000;
+}
+
+a{
+    color: cornflowerblue;
+}
