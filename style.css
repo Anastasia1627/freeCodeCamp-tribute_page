@@ -1,51 +1,53 @@
 body {
-  margin:5% 5% 0% 5%;
-  font-family:Monospace;
-  text-align:center;
- }
+    margin: 0% 5%;
+    font-family: Monospace;
+    text-align: center;
+}
 .container{
-  background-color:#E0DEFF;
+    background-color: #E0DEFF;
 }
-h1{
-  font-size: 400%;
-  }
-h2{
-  font-size: 200%;
-  }
-h3{
-  font-size: 150%;
-  }
-#bio{
-margin: 2% 0% 1% 15%; 
-text-align: left;
+.img-center{
+    width: 90%;
 }
-li{
-  margin-right:20%;
-  padding: 0.5%;
-  font-size: 120%;
-   }
-h4{
- margin:3% 0% 2% 0%; 
- color:#000;
+.full_name{
+    font-size: 5vw;
+    margin-top: 3%;
 }
-h5{
- margin:2% 10%; 
- color:#000;
-  font-size:150%;
+.description{
+    font-size: 3.5vw;
 }
-h6{
-      margin: 0%;
-    font-size: 200%;
+.title_biography{
+    font-size: 4vh;
+}
+.footnote{
+    margin: 0 5%;
+}
+.note_for_wiki{
+    margin: 0%;
+    font-size: 2.5vw;
     padding: 2% 12% 5% 12%;
 }
-#footer{
-  margin:4% 0% 1% 0%;
+.signature{
+    margin: 0;
+    font-size: calc(1.2vw + 0.3em);
 }
-
-h7{
- color:#000;
+.biography{
+    margin: 3% 15%;
+    text-align: left;
 }
-
-a{
+.date_description{
+    padding: 0.5%;
+    font-size: 120%;
+}
+.blockquote{
+    margin: 2% 10%;
+    font-size: calc(0.6em + 1.2vw);
+}
+footer{
+    background-color: #E0DEFF;
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+}
+.link_to_github, .link_to_wiki{
     color: cornflowerblue;
 }
